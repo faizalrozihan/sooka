@@ -1,2 +1,18 @@
-# sooka
-sooka.my Now you can KBS World tvN Astro Awani eGG Network Astro Arena Astro Arena 2 Astro SuperSport Astro SuperSport 2 Astro SuperSport 3 Astro SuperSport 4 Astro SuperSport 5 SPOTV beIN Sports beIN Sports 2 beIN Sports 3 Eurosport  
+# sooka-free-channels
+Live TV Links from sooka (sooka.my), Astro's new streaming service. Playable through TiviMate.
+
+# Information
+This repository contains free channels only (playable when logged out of the website itself).  
+Links could be expired anytime. Download the m3u8 file then change the license server URL.
+
+# Technical Information
+Video: Adaptive, Maximum 1280x720 1500Kbps  
+Audio: HE-AAC 40Kbps  
+
+# EPG?
+Use https://weareblahs.github.io/epg/astro.xml.
+
+# Channel List
+ - Astro Arena (Ch 801)
+ - Astro Awani (Ch 501)
+ - eGG Network (Ch 800)
