@@ -15,4 +15,9 @@ Use https://weareblahs.github.io/epg/astro.xml.
 # Channel List
  - Astro Arena (Ch 801)
  - Astro Awani (Ch 501)
+ - Astro SuperSport (Ch 811)
+ - Astro SuperSport 2 (Ch 812)
+ - Astro SuperSport 3 (Ch 813)
+ - Astro SuperSport 4 (Ch 814)
+ - Astro SuperSport 5 (Ch 815)
  - eGG Network (Ch 800)
