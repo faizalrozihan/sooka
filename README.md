@@ -11,6 +11,7 @@ Audio: HE-AAC 40Kbps
 
 # EPG?
 Use https://weareblahs.github.io/epg/astro.xml.
+Use https://bit.ly/aqfadtvepg
 
 # Channel List
  - Astro Arena (Ch 801)
